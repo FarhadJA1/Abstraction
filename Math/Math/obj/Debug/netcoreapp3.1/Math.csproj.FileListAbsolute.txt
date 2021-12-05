@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Abstraction\Math\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
